@@ -1,9 +1,8 @@
 #ISTE-R3-APPDEV                               
-1.Quiz App                                                                                                                  
+1.Quiz App                                                              
+Available in the repo                               
+
 2.Question 2                                            
-
-
-![image](https://user-images.githubusercontent.com/67854434/136601414-d7a9c14d-fcd5-4d8e-bcf0-3603e7110b24.png)
 
 
 In the field of music streaming applications, Spotify is the best app available.
