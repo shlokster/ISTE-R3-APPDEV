@@ -48,16 +48,14 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="Blue Whale"
-                        app:backgroundTint="#BF20D68D" />
+                        android:text="Blue Whale" />
 
                     <Button
                         android:id="@+id/q1o3"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="Elephant"
-                        app:backgroundTint="#D51F1F" />
+                        android:text="Elephant" />
                 </LinearLayout>
             </LinearLayout>
 
@@ -77,16 +75,14 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="Giraffe"
-                        app:backgroundTint="#D51F1F" />
+                        android:text="Giraffe" />
 
                     <Button
                         android:id="@+id/q1o4"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="Crab"
-                        app:backgroundTint="#D51F1F" />
+                        android:text="Crab" />
                 </LinearLayout>
             </LinearLayout>
         </LinearLayout>
@@ -131,16 +127,14 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        android:text="Nikola Tesla"
-                        app:backgroundTint="#D51F1F" />
+                        android:text="Nikola Tesla" />
 
                     <Button
                         android:id="@+id/q2o3"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        android:text="Thomas Edison"
-                        app:backgroundTint="#BF20D68D" />
+                        android:text="Thomas Edison" />
                 </LinearLayout>
             </LinearLayout>
 
@@ -160,16 +154,14 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        android:text="Graham Bell"
-                        app:backgroundTint="#D51F1F" />
+                        android:text="Graham Bell" />
 
                     <Button
                         android:id="@+id/q2o4"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        android:text="LeBron James"
-                        app:backgroundTint="#D51F1F" />
+                        android:text="LeBron James" />
                 </LinearLayout>
             </LinearLayout>
         </LinearLayout>
@@ -214,16 +206,14 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        android:text="6"
-                        app:backgroundTint="#D51F1F" />
+                        android:text="6" />
 
                     <Button
                         android:id="@+id/q303"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        android:text="8"
-                        app:backgroundTint="#BF20D68D" />
+                        android:text="8" />
                 </LinearLayout>
             </LinearLayout>
 
@@ -243,16 +233,14 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        android:text="7"
-                        app:backgroundTint="#D51F1F" />
+                        android:text="7" />
 
                     <Button
                         android:id="@+id/q3o4"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        android:text="9"
-                        app:backgroundTint="#D51F1F" />
+                        android:text="9" />
                 </LinearLayout>
             </LinearLayout>
         </LinearLayout>
@@ -290,6 +278,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="submit"
+        app:backgroundTint="@color/teal_200"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -301,6 +290,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/score"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
