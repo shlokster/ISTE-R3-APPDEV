@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
                 q1o3.setBackground(getResources().getDrawable(R.drawable.wrong_option_border_bg));
                 q1o4.setBackground(getResources().getDrawable(R.drawable.wrong_option_border_bg));
                 ba2.setBackground(getResources().getDrawable(R.drawable.correct_option_border_bg));
-                q2o1.setBackground(getResources().getDrawable(R.drawable.default_option_border_bg));
+                q2o1.setBackground(getResources().getDrawable(R.drawable.wrong_option_border_bg));
                 q2o2.setBackground(getResources().getDrawable(R.drawable.wrong_option_border_bg));
                 q2o4.setBackground(getResources().getDrawable(R.drawable.wrong_option_border_bg));
                 ba3.setBackground(getResources().getDrawable(R.drawable.correct_option_border_bg));
