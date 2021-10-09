@@ -102,7 +102,7 @@ public class MainActivity extends AppCompatActivity {
         q2o1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                q2o1.setBackground(getResources().getDrawable(R.drawable.default_option_border_bg));
+                q2o1.setBackground(getResources().getDrawable(R.drawable.wrong_option_border_bg));
             }
         });
 
